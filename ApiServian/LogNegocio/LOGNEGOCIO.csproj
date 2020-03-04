@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DontPanicLabs.Utilities.UnityResolver" Version="1.1.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="Unity.Interception" Version="5.11.1" />
+    <PackageReference Include="Unity.Mvc3" Version="1.2.0" />
+    <PackageReference Include="Unity.Mvc5" Version="1.4.0" />
+    <PackageReference Include="UnityDependencyResolver" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\ENTIDADES.csproj" />
+  </ItemGroup>
+
+</Project>

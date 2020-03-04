@@ -1,0 +1,57 @@
+<h1>{{title}}</h1>
+<h3>Usuario</h3>
+<hr />
+<form [formGroup]="usuarioForm" (ngSubmit)="guardar()" #formDir="ngForm" novalidate>
+
+  <label class="control-label col-md-12">Nombre</label>
+
+  <div class="col-lmd-4">
+    <input class="form-control" type="text" formControlName="nombre" />
+    <span class="text-danger" *ngIf="nombre?.invalid && formDir.submitted">
+      Ingrese Nombre
+    </span>
+  </div>
+
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="apellido">Apellido</label>
+    <div class="col-md-4">
+      <input class="form-control" type="text" formControlName="apellido" />
+      <span class="text-danger" *ngIf="apellido?.invalid && formDir.submitted">Ingrese apellido</span>
+    </div>
+  </div>
+
+  <label class="control-label col-md-12">Email</label>
+  <div class="col-md-4">
+    <input type="text" class="form-control" formControlName="email" />
+  </div>
+  <label class="control-label col-md-12">Clave</label>
+  <div class="col-md-4">
+    <input type="text" class="form-control" formControlName="clave" />
+  </div>
+  <label class="control-label col-md-12">Imagen</label>
+  <div class="col-md-4">
+    <input type="text" class="form-control" formControlName="imagen" />
+  </div>
+
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="idTipoProducto">Tipo Producto</label>
+    <div class="col-md-4">
+      <select class="form-control" data-val="true" formControlName="idTipoUsuario">
+        <option value="">--Seleccione Tipo--</option>
+        <option *ngFor="let tipUser of tipoUserList" value="{{tipUser.idTipoUsuario}}">
+          {{tipUser.descripcion}}
+        </option>
+      </select>
+    </div>
+    <span class="text-danger" *ngIf="idTipoUsuario?.invalid && formDir.submitted">
+      Seleccione Tipo Producto
+    </span>
+  </div>
+  <hr />
+
+  <div class="form-group">
+    <button type="submit" class=" btn btn-primary">Guardar</button>
+    <button class="btn btn-danger" (click)="cancelar()">Cancelar</button>
+  </div>
+
+</form>

@@ -1,0 +1,8 @@
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\bin\Debug\netstandard2.0\ENTIDADES.deps.json
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\bin\Debug\netstandard2.0\ENTIDADES.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\obj\Debug\netstandard2.0\ENTIDADES.AssemblyInfoInputs.cache
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\obj\Debug\netstandard2.0\ENTIDADES.AssemblyInfo.cs
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\bin\Debug\netstandard2.0\ENTIDADES.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\obj\Debug\netstandard2.0\ENTIDADES.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\obj\Debug\netstandard2.0\ENTIDADES.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\Entidades\obj\Debug\netstandard2.0\ENTIDADES.csprojAssemblyReference.cache

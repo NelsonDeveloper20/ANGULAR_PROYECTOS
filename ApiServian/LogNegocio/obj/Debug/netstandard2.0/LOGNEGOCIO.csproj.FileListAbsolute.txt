@@ -1,0 +1,11 @@
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\bin\Debug\netstandard2.0\ENTIDADES.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.csprojAssemblyReference.cache
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.AssemblyInfoInputs.cache
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.AssemblyInfo.cs
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\bin\Debug\netstandard2.0\LOGNEGOCIO.deps.json
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\bin\Debug\netstandard2.0\LOGNEGOCIO.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\bin\Debug\netstandard2.0\LOGNEGOCIO.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\bin\Debug\netstandard2.0\ENTIDADES.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.csproj.CopyComplete
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\LogNegocio\obj\Debug\netstandard2.0\LOGNEGOCIO.pdb

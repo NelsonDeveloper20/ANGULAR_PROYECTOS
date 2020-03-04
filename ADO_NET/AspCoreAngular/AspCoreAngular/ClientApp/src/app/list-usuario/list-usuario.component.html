@@ -1,0 +1,43 @@
+<h1>Lista Usuario</h1>
+<p *ngIf="!userList"><em>Loading...</em></p>
+
+
+<p>
+
+
+<p>
+  <a [routerLink]="['/add-usuario']">Crear nuevo</a>
+</p> 
+
+<table class="table" *ngIf="userList">
+  <thead>
+    <tr>
+      <th>Usuario Id</th>
+      <th>Nombre</th>
+      <th>Apellido</th>
+      <th>Email</th>
+      <th>Imagen</th>
+      <th>TipoUsuario</th>
+      <th>Accion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of userList">
+      <td>{{user.idUsuario}}</td>
+      <td>{{ user.nombre}}</td>
+      <td>{{user.apellido }}</td>
+      <td>{{user.email }}</td>
+      <td>
+        <img src="{{user.imagen}}" style="height:50px;width:auto;border-radius:10%" />
+      </td>
+      <td>{{user.idTipoUsuario}}</td>
+      <td>
+        <a></a>
+        <a [routerLink]="['/usuario/edit/',user.idUsuario]">Editar</a> |
+        <a [routerLink]="" (click)="eliminarUsuario(user.idUsuario)">Eliminar</a>
+      </td>
+
+    </tr>
+
+  </tbody>
+</table>

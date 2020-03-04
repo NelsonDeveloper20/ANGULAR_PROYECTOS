@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\ENTIDADES.csproj" />
+    <ProjectReference Include="..\LogNegocio\LOGNEGOCIO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="TableTypes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommonServiceLocator" Version="2.0.5" />
+    <PackageReference Include="DontPanicLabs.Utilities.UnityResolver" Version="1.1.0" />
+    <PackageReference Include="EnterpriseLibrary.Common" Version="6.0.1304" />
+    <PackageReference Include="EnterpriseLibrary.Data" Version="6.0.1304" />
+    <PackageReference Include="EnterpriseLibrary.TransientFaultHandling" Version="6.0.1304" />
+    <PackageReference Include="EnterpriseLibrary.Validation" Version="6.0.1304" />
+    <PackageReference Include="Microsoft.Practices.EnterpriseLibrary.Data.dll" Version="3.1.0" />
+    <PackageReference Include="SharpRepository.Ioc.Unity" Version="2.1.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="Unity" Version="5.11.4" />
+    <PackageReference Include="Unity.Interception" Version="5.11.1" />
+    <PackageReference Include="Unity.Mvc3" Version="1.2.0" />
+    <PackageReference Include="Unity.Mvc5" Version="1.4.0" />
+    <PackageReference Include="UnityDependencyResolver" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

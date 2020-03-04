@@ -1,0 +1,13 @@
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\ENTIDADES.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\LOGNEGOCIO.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.AssemblyInfoInputs.cache
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.AssemblyInfo.cs
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.csprojAssemblyReference.cache
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\ACDATOS.deps.json
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\ACDATOS.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\ACDATOS.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\ENTIDADES.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\bin\Debug\netstandard2.0\LOGNEGOCIO.pdb
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.csproj.CopyComplete
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.dll
+C:\Users\NELSON\Desktop\ANGULAR_PROYECTOS\ApiServian\ACDATOS\obj\Debug\netstandard2.0\ACDATOS.pdb
